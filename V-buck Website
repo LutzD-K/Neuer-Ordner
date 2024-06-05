@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: rgb(0, 0, 0);">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FREE VBUCKS (100% real not patched)!!!</title>
+    <link rel="icon" type="image/x-icon" href="epikgaymes.ico">
+    <style>
+        a:link, a:visited {
+          background-color: #FFFF00;
+          color: black;
+          padding: 14px 25px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+        }
+        
+        a:hover, a:active {
+          background-color: red;
+        }
+        </style>
+        <script>
+            function yFunction() {
+            document.getElementById("demo").innerHTML = "Wrong!"
+            }
+            function zFunction() {
+            document.getElementById("demo").innerHTML = "Correct!1!!111!"
+            }
+            </script>
+            </script>
+          
+    <h1 style="font-size:50px;color: rgb(255, 255, 255);">How to get Free V-bucks <mark>*2024 NOT PATCHED*!!!</mark></h1>
+</head>
+<body>
 
+<img src="schwein.jpg" width="1750" height="700" usemap="#schwein">
+<map name="schwein">
+    <area shape="circle" coords="1100,350,425" alt=schwwein href="https://www.youtube.com/watch?v=uHgt8giw1LY">
+</map>
+<p></p>
+<img src="renegade_raider.jpeg" width="680" height="375"></img>
+<p></p>
+<a href="https://youtu.be/uXu6xNQzmaI?si=2J18XfTcMUhKjCbf"target="_blank", style="font-size:50px;">Free *OG Renegade Raider*!!!</a>
+<p id="demo" style="font-size: 30px;color: white;">Did Ninja see enough movement at the Fortnite New Years event?</p>
+<button type="button" style="font-size: 30px;" onclick="yFunction()">Yes</button>
+<button type="button" style="font-size: 30px;" onclick="zFunction()">No</button>
+
+</body>
+</html>
